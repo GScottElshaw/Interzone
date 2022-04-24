@@ -12,4 +12,11 @@ Thus far, there is this:
 
 And a smattering of files to begin the process. All are welcome to contribute, I just ask that you help me learn as we go.
 
+The idea is to keep this as simple as possible and recycle some of the current attributes from the dock icon badging (with the exception that, shockingly, the upload speed is above the download speed in the menu item). 
+
+![mockup](https://user-images.githubusercontent.com/69029666/164980227-7e7290ca-cf1b-4b70-aa6d-817272beaae6.png)
+
+From there the user can select the upload or download speed to remain in the menu.
+
+![mockup2](https://user-images.githubusercontent.com/69029666/164980280-a80a8c50-eb58-4184-ac38-245366321245.png)
 
